@@ -3,7 +3,7 @@ play-java-idea-template
 
 The Play 2.4.x wizard in IntelliJ Idea 15 is currently broken. Importing a project from a Play 2.4.4 Activator created 
 project also has some issues that aren't too difficult to fix, but are fairly annoying. This IntelliJ Idea template was 
-made as a boilerplate to expedite the creation of a Play 2.4.4 project.
+made as a boilerplate to expedite the creation of a Play 2.4.4 project (with Bootstrap 3!).
 
 How to Use
 ----------
